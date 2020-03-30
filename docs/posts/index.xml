@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Brand New Web Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://xligithub.github.io/quickstart/posts/</link>
     <description>Recent content in Posts on My Brand New Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Mar 2020 11:44:39 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xligithub.github.io/quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>_My experience with creating the 1st hugo website_</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://xligithub.github.io/quickstart/posts/my-first-post/</link>
       <pubDate>Mon, 23 Mar 2020 11:44:39 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://xligithub.github.io/quickstart/posts/my-first-post/</guid>
       <description>Isn&amp;rsquo;t awesome?</description>
     </item>
     
