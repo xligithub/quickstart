@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My **brand** New Hugo Site"
+title = "My Brand New Web Site"
 theme = "ananke"
+publishDir= "docs"
