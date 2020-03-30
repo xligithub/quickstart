@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://xligithub.github.io/quickstart/"
 languageCode = "en-us"
 title = "My Brand New Web Site"
 theme = "ananke"
